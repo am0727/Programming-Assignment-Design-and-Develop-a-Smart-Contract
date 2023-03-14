@@ -1,2 +1,2 @@
-# Programming-Assignment-Design-and-Develop-a-Smart-Contract
-Programming Assignment: Design and Develop a Smart Contract Coursera
+# Smart_Contract_Coursera_Assignment
+This is the assignment done in solidity for Coursera Smart Contract course.
